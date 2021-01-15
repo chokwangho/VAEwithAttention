@@ -1,0 +1,43 @@
+TensorFlow 2.0 Upgrade Script
+-----------------------------
+Converted 3 files
+Detected 0 issues that require attention
+--------------------------------------------------------------------------------
+================================================================================
+Detailed log follows:
+
+================================================================================
+================================================================================
+Input tree: 'varAttention_decoder'
+================================================================================
+--------------------------------------------------------------------------------
+Processing file 'varAttention_decoder\\attention_wrapper.py'
+ outputting to 'varAttention_decoder2\\attention_wrapper.py'
+--------------------------------------------------------------------------------
+
+1026:14: INFO: Renamed 'tf.random_normal' to 'tf.random.normal'
+1026:31: INFO: Added keywords to args of function 'tf.shape'
+1031:24: INFO: Added keywords to args of function 'tf.reduce_sum'
+1032:12: INFO: Renamed keyword argument for tf.count_nonzero from keep_dims to keepdims
+1032:12: INFO: Renamed 'tf.count_nonzero' to 'tf.math.count_nonzero'
+1032:29: INFO: Added keywords to args of function 'tf.reduce_sum'
+1036:27: INFO: Added keywords to args of function 'tf.reduce_sum'
+1040:27: INFO: Added keywords to args of function 'tf.reduce_sum'
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Processing file 'varAttention_decoder\\basic_decoder.py'
+ outputting to 'varAttention_decoder2\\basic_decoder.py'
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Processing file 'varAttention_decoder\\decoder.py'
+ outputting to 'varAttention_decoder2\\decoder.py'
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+

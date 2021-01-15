@@ -1,0 +1,7 @@
+Epoch   1/7 - Time    3.3 BLEU: 0 | 0 | 0 | 0
+Epoch   2/7 - Time    3.0 BLEU: 1.53 | 0.0 | 0.0 | 0.0
+Epoch   3/7 - Time    3.1 BLEU: 1.02 | 0.0 | 0.0 | 0.0
+Epoch   4/7 - Time    3.0 BLEU: 1.53 | 0.0 | 0.0 | 0.0
+Epoch   5/7 - Time    3.0 BLEU: 1.02 | 0.0 | 0.0 | 0.0
+Epoch   6/7 - Time    3.0 BLEU: 1.02 | 0.0 | 0.0 | 0.0
+Epoch   7/7 - Time    3.1 BLEU: 1.02 | 0.0 | 0.0 | 0.0
